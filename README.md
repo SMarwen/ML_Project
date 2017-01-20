@@ -1,2 +1,2 @@
 # ML_Project
-Human Activity Recognition Project using Machine Learning Techniques.
+A project for Human Activity Recognition using Machine Learning Techniques.
