@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.11.10)  20 JAN 2017 10:24
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.11.10)  26 JAN 2017 23:23
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -491,7 +491,7 @@ Package: subfigure 2002/03/15 v2.1.5 subfigure package
 \subfig@top=\skip50
 \subfig@bottom=\skip51
 )
-No file presentation.aux.
+(./presentation.aux)
 \openout1 = `presentation.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
@@ -506,6 +506,7 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
 LaTeX Font Info:    ... okay on input line 22.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
 LaTeX Font Info:    ... okay on input line 22.
+
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -624,18 +625,6 @@ on+from+Single+Chest-Mounted+Accelerometer
 
 LaTeX Warning: Citation `bulling' on page 2 undefined on input line 40.
 
-
-LaTeX Warning: Reference `pre' on page 2 undefined on input line 42.
-
-
-LaTeX Warning: Reference `kda' on page 2 undefined on input line 44.
-
-
-LaTeX Warning: Reference `hmm' on page 2 undefined on input line 44.
-
-
-LaTeX Warning: Reference `fig-signals' on page 2 undefined on input line 53.
-
 <signals.png, id=11, 401.5pt x 290.08376pt>
 File: signals.png Graphic file (type png)
  <use signals.png>
@@ -663,9 +652,6 @@ LaTeX Warning: Citation `casale' on page 3 undefined on input line 74.
 LaTeX Warning: Citation `casale' on page 3 undefined on input line 74.
 
 
-LaTeX Warning: Reference `fig-table' on page 3 undefined on input line 74.
-
-
 LaTeX Warning: Citation `mannini' on page 3 undefined on input line 76.
 
 
@@ -679,9 +665,6 @@ File: table.png Graphic file (type png)
  <use table.png>
 Package pdftex.def Info: table.png used on input line 83.
 (pdftex.def)             Requested size: 392.96716pt x 190.71202pt.
-
-
-LaTeX Warning: Reference `fig:first' on page 3 undefined on input line 92.
 
 
 LaTeX Warning: Citation `khan' on page 3 undefined on input line 92.
@@ -709,16 +692,7 @@ File: c.png Graphic file (type png)
  <use c.png>
 Package pdftex.def Info: c.png used on input line 104.
 (pdftex.def)             Requested size: 173.44933pt x 131.89375pt.
-
-
-LaTeX Warning: Reference `fig:second' on page 3 undefined on input line 106.
-
-
-LaTeX Warning: Reference `fig:second' on page 3 undefined on input line 106.
-
-[3 <./table.png>] [4 <./classes.png (PNG copy)> <./a.png> <./b.png> <./c.png>]
-
-LaTeX Warning: Reference `eigen' on page 5 undefined on input line 152.
+ [3 <./table.png>] [4 <./classes.png (PNG copy)> <./a.png> <./b.png> <./c.png>]
 
 
 LaTeX Warning: Citation `attal' on page 5 undefined on input line 163.
@@ -754,18 +728,15 @@ No file presentation.bbl.
 
 LaTeX Warning: There were undefined references.
 
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
  ) 
 Here is how much of TeX's memory you used:
- 3466 strings out of 493013
- 45385 string characters out of 6133327
- 117020 words of memory out of 5000000
+ 3468 strings out of 493013
+ 45419 string characters out of 6133327
+ 117110 words of memory out of 5000000
  6930 multiletter control sequences out of 15000+600000
  14662 words of font info for 57 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 40i,15n,28p,1018b,312s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 40i,15n,28p,1005b,312s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 ></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
 </usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></
@@ -784,7 +755,7 @@ ve/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/
 exmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2016/te
 xmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb></usr/local/texlive/2016/texm
 f-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on presentation.pdf (7 pages, 509297 bytes).
+Output written on presentation.pdf (7 pages, 509281 bytes).
 PDF statistics:
  108 PDF objects out of 1000 (max. 8388607)
  72 compressed objects within 1 object stream
